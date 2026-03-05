@@ -22,7 +22,7 @@ To deploy the engine, ensure you have the required environment. Copy and paste t
 
 ```bash
 # Clone the repository
-git clone https://github.com/Darkness-XyZ/XBoosters-TrafficPageweb.git
+git clone https://github.com/Darkness-XyZ/XBoosters-Traffic
 
 # Navigate to the directory
 cd XBoosters-Traffic
