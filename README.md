@@ -32,26 +32,18 @@ Cukup jalankan satu perintah ini di terminal Anda:
 pip install requests
 
 
-2. Jalankan Mesin
+2. Jalankan sc
 Masuk ke direktori file dan eksekusi:
 
-python traffic_generator.py
+python3 XBoosters-TrafficPageweb.py
 
 
 3. Alur Kerja
 Cukup masukkan URL target, pilih asal trafik, tentukan jumlah kunjungan, dan biarkan skrip melakukan sisanya.
 
-# ⚙️ Struktur Script
-
-.
-├── traffic_generator.py  # Logika utama (Python)
-├── README.md             # Dokumentasi proyek
-└── requirements.txt      # Daftar pustaka
-
-
 # 📜 Pesan Penulis
 
-Proyek ini saya kembangkan untuk membantu komunitas pengembang dalam memahami mekanisme header HTTP dan load balancing. Saya sangat menghargai jika alat ini digunakan untuk tujuan positif dan pengembangan ilmu pengetahuan.
+Proyek ini saya kembangkan untuk membantu Bloggers
 
 Gunakan dengan bijak, kembangkan dengan kreatif.
 
